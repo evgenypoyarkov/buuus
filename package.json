@@ -1,0 +1,16 @@
+{
+  "name": "buuus",
+  "version": "1.0.0",
+  "description": "M-services bus on the top of kue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "makeomatic.ru",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^2.3.11",
+    "kue": "^0.8.9",
+    "lodash": "^2.4.1"
+  }
+}
