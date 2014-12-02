@@ -2,6 +2,7 @@
   "name": "buuus",
   "version": "0.0.1",
   "description": "Message bus on the top of the kue",
+  "homepage": "https://github.com/evgenypoyarkov/buuus",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +12,11 @@
     "name": "Evgeny Poyarkov",
     "email": "eug.poyarkov@gmail.com"
   }],
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:evgenypoyarkov/buuus.git"
+  },
+  "license": "MIT",
   "dependencies": {
     "bluebird": "^2.3.11",
     "kue": "^0.8.9",
