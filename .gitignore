@@ -1,0 +1,15 @@
+node_modules/
+tools/temp
+!tools/temp/matched.txt
+!tools/temp/unmatched.txt
+logs
+*.log
+pids
+*.pid
+*.seed
+dump.rdb
+static/bower_components
+.idea
+*.sublime-workspace
+*.sublime-project
+*.sw*
