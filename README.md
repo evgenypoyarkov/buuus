@@ -32,3 +32,9 @@ service.emit({
   console.log(res);
 });
 ```
+
+Workflow
+========
+
+- Add more examples
+- Add ability to add handler functions
