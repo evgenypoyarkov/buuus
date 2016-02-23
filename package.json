@@ -1,6 +1,6 @@
 {
   "name": "buuus",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Message bus on the top of the kue",
   "homepage": "https://github.com/evgenypoyarkov/buuus",
   "main": "index.js",
